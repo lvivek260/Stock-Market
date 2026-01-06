@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Icon_Band_Protocol.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
